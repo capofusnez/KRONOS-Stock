@@ -54,4 +54,4 @@ Copyright © 2026 **Veneta Finishing S.r.l.** — Tutti i diritti riservati.
 **KRONOS Stock** è distribuito come software gratuito ad uso diretto.
 
 - **Uso consentito:** È permesso scaricare, installare ed utilizzare liberamente l'eseguibile per scopi operativi e gestionali.
-- **Restrizioni:** È severamente vietato riassemblare, decompilare, ri-commercializzare, vendere o ridistribuire il software sotto altro nome, marchio o licenza senza l'autorizzazione.**.
+- **Restrizioni:** È severamente vietato riassemblare, decompilare, ri-commercializzare, vendere o ridistribuire il software sotto altro nome, marchio o licenza senza l'autorizzazione.

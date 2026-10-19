@@ -44,3 +44,14 @@ Packaging: Compilato in eseguibile unico stand-alone tramite PyInstaller (--onef
 
 Riferimenti da aggiornare nel codice Mag_Interattivo.py
 Quando crei la repository KRONOS-Stock (o kronos-stock) su GitHub, assicurati di aggiornare le costanti all'inizio del file Python così:
+
+
+---
+
+## ⚖️ Licenza e Termini d'Uso
+Copyright © 2026 **Veneta Finishing S.r.l.** — Tutti i diritti riservati.
+
+**KRONOS Stock** è distribuito come software gratuito ad uso diretto.
+
+- **Uso consentito:** È permesso scaricare, installare ed utilizzare liberamente l'eseguibile per scopi operativi e gestionali.
+- **Restrizioni:** È severamente vietato riassemblare, decompilare, ri-commercializzare, vendere o ridistribuire il software sotto altro nome, marchio o licenza senza l'autorizzazione.**.

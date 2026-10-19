@@ -16,7 +16,7 @@ Sincronizzazione in Tempo Reale (Pool di Scrittura Concorrente): Permette a più
 Sistema di Blocco e Rilettura Fresca (FileLockManager): Se un PC sta aggiornando il file, le altre postazioni attendono in coda in modo trasparente e rileggono immediatamente lo stato aggiornato dal NAS prima di sommare le nuove quantità.
 
 2. Scansione Barcode & Ricerca Intelligente
-Scansione Immediata: Ottimizzato per lettori di codici a barre (Barcode Scanner). Premendo Invio dopo la scansione, il programma individua l'articolo e invia istantaneamente la quantità al file Excel.
+Scansione Immediata: Ottimizzato per lettori di codici a barre (Barcode Scanner).
 
 Filtro Testuale Dinamico: Permette la ricerca rapida per codice o descrizione parziale all'interno dell'inventario del gestionale.
 
@@ -39,15 +39,11 @@ Linguaggio: Python
 
 Interfaccia Grafica: tkinter + ttk
 
-Manipolazione Dati ed Excel: pandas, openpyxl
+Manipolazione Dati ed Excel
 
 Architettura di Rete: File locking temporizzato basato su file .lock per ambienti condivisi SMB/CIFS.
 
-Packaging: Compilato in eseguibile unico stand-alone tramite PyInstaller (--onefile --noconsole).
-
-Riferimenti da aggiornare nel codice Mag_Interattivo.py
-Quando crei la repository KRONOS-Stock (o kronos-stock) su GitHub, assicurati di aggiornare le costanti all'inizio del file Python così:
-
+Packaging: Compilato in eseguibile unico stand-alone.
 
 ---
 

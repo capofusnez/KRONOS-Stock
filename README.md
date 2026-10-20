@@ -4,7 +4,7 @@ Sistema intelligente e multi-postazione per la gestione, sincronizzazione e scar
 🎯 Obiettivo del Software
 KRONOS Stock è un'applicazione desktop sviluppata in Python (con interfaccia grafica nativa tkinter) progettata specificamente per reparti produttivi e officine industriali. Il software funge da ponte ad alta velocità tra il listino/inventario centrale del gestionale aziendale (file ERP) e le cartelle di commessa archiviate sul NAS di rete, automatizzando lo scarico dei materiali tramite lettore di codici a barre o ricerca testuale.
 
-
+![KRONOS Stock - Avvio](assets/LOANDING.png)
 ![KRONOS Stock - Interfaccia](assets/Main-Kronos.png)
 
 ✨ Funzionalità Principali

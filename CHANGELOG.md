@@ -4,6 +4,24 @@ Tutte le modifiche e gli aggiornamenti importanti di questo progetto saranno doc
 
 ---
 
+
+##[v1.1.4] - 2026-10-20
+
+### 🚀 Novità Principali
+- **Layout a Due Colonne Affiancate**: La tabella principale degli articoli è stata spostata dalla posizione inferiore al lato destro dell'interfaccia, offrendo una disposizione visiva più ampia, moderna e immediata per il controllo delle commesse.
+
+- **Avvio Istantaneo (Instant Launch)**: Riorganizzata l'architettura di caricamento iniziale per visualizzare lo Splash Screen all'istante, disaccoppiando l'apertura grafica dal caricamento in memoria dei moduli pesanti in background.
+
+- **Nuova Barra di Avanzamento Fluida**: Aggiunta nello Splash Screen una barra di progresso dinamica con animazione continua e armoniosa per accompagnare l'avvio dell'applicazione.
+
+- **Modifiche e Miglioramenti Funzionali**
+Ricerca File Excel in Profondità (Deep Scan): Ottimizzata la logica di esplorazione delle cartelle sul NAS, estendendo la ricerca dei file Excel all'interno di tutte le relative sottocartelle.
+
+- **Pieno Supporto Temi Dark & Light**: Introdotta la gestione nativa e la perfetta coerenza visiva per entrambe le modalità di visualizzazione cromatica.
+
+- **Perfezionamento Widget**: Ottimizzati colori, bordi e stati interattivi per tutti i selettori a tendina (Anno, Commessa e Macchina), garantendo una leggibilità impeccabile sia con il tema chiaro che con quello scuro.
+
+
 ## [1.1.3] - 2026-10-19
 
 ### 🚀 Novità e Miglioramenti
